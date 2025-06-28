@@ -1,6 +1,6 @@
 # Diagnostic Commercial — Superstore Inc.  
 **Projet d’analyse stratégique des ventes & marges (fictif) / Data Analyse pour stratégie marketing**
-*Projet client simulé*
+- *Projet client simulé*
 ---
 
 ## Objectif du projet  
